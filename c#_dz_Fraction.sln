@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#_dz_Fraction", "c#_dz_Fraction\c#_dz_Fraction.csproj", "{FA2CD91B-D389-4280-A64E-9192C4214B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2CD91B-D389-4280-A64E-9192C4214B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2CD91B-D389-4280-A64E-9192C4214B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2CD91B-D389-4280-A64E-9192C4214B28}.Debug|x64.ActiveCfg = Debug|x64
+		{FA2CD91B-D389-4280-A64E-9192C4214B28}.Debug|x64.Build.0 = Debug|x64
+		{FA2CD91B-D389-4280-A64E-9192C4214B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2CD91B-D389-4280-A64E-9192C4214B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2CD91B-D389-4280-A64E-9192C4214B28}.Release|x64.ActiveCfg = Release|x64
+		{FA2CD91B-D389-4280-A64E-9192C4214B28}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8BB118D-0FFB-40C0-994F-3A7B25967625}
+	EndGlobalSection
+EndGlobal
